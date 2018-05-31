@@ -1,5 +1,5 @@
 # Simon
-The purpose of this assignment was to create your own version of Simon says in MIPS Asssembly Language. A project designed to practice writing assembly language and simulate the 70s version of the Simon Says game. 
+The purpose of this assignment was to create your own version of Simon says in MIPS Asssembly Language. A project designed to practice writing assembly language and simulate the 70s version of Simon Says. 
 ___
 ## Necesssary Files
 + Main Source File
@@ -46,4 +46,4 @@ ___
 + ![$t8Commands Screenshot](https://github.com/neilpatel/Simon/blob/master/screenshots/t8commands.PNG)
 
 ___
-<p align = "center"> Good Luck! </p>
+<p align = "center"> <b>Good Luck! </b></p>
