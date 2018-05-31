@@ -17,7 +17,7 @@ ___
 	+ `java Mars`
 		+ The Mars Simulator should open
 + Open the "simon.asm" source file
-	+ At the top left, click File > Open > `simon.asm`
+	+ At the top left, click File > Open > 'simon.asm'
 	+ Screenshot provided below
 	+ ![FileOpen Screenshot](https://github.com/neilpatel/Simon/blob/master/screenshots/fileOpenScreenshot.PNG)
 + Necesssary Class Files
@@ -35,13 +35,15 @@ ___
 		+ ![Tools Screenshot](https://github.com/neilpatel/Simon/blob/master/screenshots/toolsScreenshot.PNG)
 	+ Screen Layout
 		![Default Screenshot](https://github.com/neilpatel/Simon/blob/master/screenshots/openSimonGUI.PNG)
-
-___
-## Project Functionality
-+ Type here
 ___
 ## Project Requirements
-+ Type here
++ Write a MIPS assembly language program such that when the program is running, the Simon game will behave just like an actual Simon game hardware.
++ When a player plays a wrong sequence, the Simon game should play the game over tone, light all colored buttons three times, and enable the "Start Game" buttom for the next player without restarting the program.
 
 ___
-<center> Good Luck! </center>
+## Additional Information/Hints 
++ A list of $t8 has been provided to you along with its commands
++ ![$t8Commands Screenshot](https://github.com/neilpatel/Simon/blob/master/screenshots/t8Commands.PNG)
+
+___
+<p align = "center"> Good Luck! </p>
