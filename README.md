@@ -8,14 +8,6 @@ ___
 	+ Mars Simulator to execute MIPS provided in the "mars" directory
 ___
 ## Usage
-+ (tell the user how to download MARS MIPS simulator...  *OR JUST PROVIDE THE FOLDER OF ALL THE STUFF..... 
-+ (how to add the class files in the tools directory)
-+ how to execute and start the Mars simulator
-+ how to open the files
-+ How to execute the program and open up the GUI
-+ how to exit
-
-
 + Clone the repository
 	+ `git clone https://github.com/neilpatel/Simon.git`
 	+ *There are 4 CLASS files required for this program. They are located in `mars\mars\tools\Simon*`
