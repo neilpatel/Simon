@@ -43,7 +43,7 @@ ___
 ___
 ## Additional Information/Hints 
 + A list of $t8 has been provided to you along with its commands
-+ ![$t8Commands Screenshot](https://github.com/neilpatel/Simon/blob/master/screenshots/t8Commands.PNG)
++ ![$t8Commands Screenshot](https://github.com/neilpatel/Simon/blob/master/screenshots/t8commands.PNG)
 
 ___
 <p align = "center"> Good Luck! </p>
